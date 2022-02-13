@@ -2,24 +2,26 @@
 ---
 An ambivert, stubborn, finicky person mixed with a sparkle of punctuality who's ready for anything even close to exciting✨✨✨
 
-**Full stack web-developer with major experience and expertise on frontend. Active competitive programmer**
+**Frontend web-developer with decent experience. Active competitive programmer**
 
 ---
 
 ### **Hobbies** : Chess ♟ | Badminton 🏸 | Reading 📖
 
-### **Languages** : C++ | Python | Css | Javascript | MySQL
+### **Languages** : C++ | Python | Javascript | MySQL
+
+### **Domains m Interested In** : Ethical Hacking | AI | Robotics | Graphic Design | Finance
 
 ---
 
 
 Cryptic hunt? Party? ctf? Count me in.😌 
 
-Willing to participate in any "no-public-speaking-skills-required"  event. 
+Ready to participate in any event/college fest!
 
 
 
-Animes/webseries/music/coding=❤️
+Animes/webseries/music/coding = ❤️
 <!---
 UltigendLemate/UltigendLemate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
