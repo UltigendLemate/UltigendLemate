@@ -2,7 +2,7 @@ Hi 👋 My name is Chaitanya Anand
 ================================
 An ambivert, stubborn, finicky person mixed with a sparkle of punctuality who's ready for anything even close to exciting✨✨✨
 
-**Frontend web-developer with decent experience. Active competitive programmer**
+**Fullstack web-developer with 2+ years experience. Active freelancer & competitive programmer**
 
 ---
 
